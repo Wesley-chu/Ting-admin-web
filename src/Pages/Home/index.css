@@ -1,17 +1,16 @@
-
-.levelButton{
+.levelButton {
   padding: 1%;
   margin: 10px;
   width: 20%;
 }
 
-.setNewStyle{
+.setNewStyle {
   position: fixed;
   margin-left: 10px;
 }
 
-.setNewButton{
-  background-color: #FFCC00;
+.setNewButton {
+  background-color: #ffcc00;
   color: white;
   border: 0px;
   border-radius: 25px;
@@ -20,7 +19,7 @@
   height: 50px;
 }
 
-.edit{
+.edit {
   padding: 1%;
   margin: 10px;
   float: left;
@@ -30,16 +29,16 @@
   justify-content: center;
 }
 
-.buttonType{
-  background-color: #FFCC00;
+.buttonType {
+  background-color: #ffcc00;
   color: white;
   border: 0px;
   border-radius: 5px;
   font-size: 17px;
 }
 
-.buttonType2{
-  background-color: #FFCC00;
+.buttonType2 {
+  background-color: #ffcc00;
   color: white;
   border: 0px;
   border-radius: 5px;
@@ -50,70 +49,68 @@
   margin: 0 auto;
 }
 
-.setDistence{
+.setDistence {
   margin-right: 20px;
 }
 
-.inputWidth2{
+.inputWidth2 {
   width: 100px;
 }
 
-.inputWidth3{
+.inputWidth3 {
   width: 300px;
 }
 
-.setBlock{
+.setBlock {
   display: block;
 }
 
-.blockColor{
-  background-color: #FEF8CB;
+.blockColor {
+  background-color: #fef8cb;
   border-radius: 10px;
   padding: 20px;
   /*display: flex;*/
-  align-items: center; 
+  align-items: center;
 }
 
-.margin{
+.margin {
   margin: 5px;
 }
 
-.wordStyle{
-  background-color: #F2F2F7;
+.wordStyle {
+  background-color: #f2f2f7;
   border: 0px;
   padding: 5px;
   font-size: 15px;
 }
 
-
-.learnPoint{
+.learnPoint {
   float: left;
   margin-top: 60px;
   width: 25%;
 }
 
-.fontStyle{
+.fontStyle {
   font-size: 18px;
   font-weight: 600;
 }
 
-.bar{
+.bar {
   height: 3px;
   margin: 5px 5px 10px 0px;
-  background-color: #FFCC00;
+  background-color: #ffcc00;
 }
 
-.marginTop{
+.marginTop {
   margin-top: 20px;
 }
 
-.marginBottom{
+.marginBottom {
   margin-bottom: 30px;
 }
 
-.listButton{
+.listButton {
   border: 0;
   background-color: white;
   font-size: 16px;
 }
-

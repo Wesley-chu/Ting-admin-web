@@ -8,7 +8,8 @@ const LearnPoint = () => {
         <button className="setBlock marginTop listButton">S+V+O</button>
         <button className="setBlock marginTop listButton">S+V+O</button>
       </div>
-      <br/><br/>
+      <br />
+      <br />
 
       <div>
         <span className="fontStyle">学習ポイント２</span>
@@ -17,10 +18,10 @@ const LearnPoint = () => {
         <button className="setBlock marginTop listButton">S+V+O</button>
         <button className="setBlock marginTop listButton">S+V+O</button>
       </div>
-      <br/><br/>
-
+      <br />
+      <br />
     </div>
-  )
-}
+  );
+};
 
-export default LearnPoint 
+export default LearnPoint;
