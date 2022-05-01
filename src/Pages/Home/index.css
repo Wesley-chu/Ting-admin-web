@@ -1,0 +1,119 @@
+
+.levelButton{
+  padding: 1%;
+  margin: 10px;
+  width: 20%;
+}
+
+.setNewStyle{
+  position: fixed;
+  margin-left: 10px;
+}
+
+.setNewButton{
+  background-color: #FFCC00;
+  color: white;
+  border: 0px;
+  border-radius: 25px;
+  font-size: 17px;
+  width: 50px;
+  height: 50px;
+}
+
+.edit{
+  padding: 1%;
+  margin: 10px;
+  float: left;
+  width: 65%;
+  display: flex;
+  /* 水平置中 */
+  justify-content: center;
+}
+
+.buttonType{
+  background-color: #FFCC00;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 17px;
+}
+
+.buttonType2{
+  background-color: #FFCC00;
+  color: white;
+  border: 0px;
+  border-radius: 5px;
+  font-size: 17px;
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+}
+
+.setDistence{
+  margin-right: 20px;
+}
+
+.inputWidth2{
+  width: 100px;
+}
+
+.inputWidth3{
+  width: 300px;
+}
+
+.setBlock{
+  display: block;
+}
+
+.blockColor{
+  background-color: #FEF8CB;
+  border-radius: 10px;
+  padding: 20px;
+  /*display: flex;*/
+  align-items: center; 
+}
+
+.margin{
+  margin: 5px;
+}
+
+.wordStyle{
+  background-color: #F2F2F7;
+  border: 0px;
+  padding: 5px;
+  font-size: 15px;
+}
+
+
+.learnPoint{
+  float: left;
+  margin-top: 60px;
+  width: 25%;
+}
+
+.fontStyle{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.bar{
+  height: 3px;
+  margin: 5px 5px 10px 0px;
+  background-color: #FFCC00;
+}
+
+.marginTop{
+  margin-top: 20px;
+}
+
+.marginBottom{
+  margin-bottom: 30px;
+}
+
+.listButton{
+  border: 0;
+  background-color: white;
+  font-size: 16px;
+}
+
