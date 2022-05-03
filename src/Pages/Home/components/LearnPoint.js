@@ -1,4 +1,8 @@
-const LearnPoint = () => {
+import { useEffect, useState } from "react";
+
+const LearnPoint = ({ listData }) => {
+
+//const {uid, subId, title, words, grammarContent, example, practice} = item
   return (
     <div className="learnPoint">
       <div>
